@@ -191,6 +191,7 @@ body {
   font-family: "Biryani", "sans-serif";
   font-weight: 600;
   color: #43abff;
+  background: #000000;
   border-color: #43abff;
   padding: 0.625rem 10px;
   padding-top: min(0.875rem, 34px);
